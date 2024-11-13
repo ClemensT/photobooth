@@ -1,4 +1,4 @@
-# Photobooth v4
+# Photobooth v4 (FORK!)
 
 ![](resources/img/logo/banner.png)
 
